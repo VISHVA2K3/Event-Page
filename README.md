@@ -12,8 +12,8 @@ This is a simple HTML Event-Webpage created as a beginner level project, just vi
 - keychain.png
 - ring.png
 
-## 🌐 Live Demo
-- Check it out here: 
+## 🌐 Live Demo 🔗
+- Check it out here: https://vishva2k3.github.io/Event-Page/
 
 ## 🔧 Future Updates
 - Will Add CSS styling
